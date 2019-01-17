@@ -3,6 +3,13 @@
 
 javap解析
 
+![](https://i.imgur.com/aH5OpZO.png)
+
+![](https://i.imgur.com/mpJ9wqT.png)
+<pre>
+idea配置javap
+
+</pre>
 
 ![](https://i.imgur.com/HwQ83NJ.png)
 
